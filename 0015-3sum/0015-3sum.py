@@ -1,37 +1,37 @@
 class Solution(object):
     def threeSum(self,nums):
-        nums.sort()
-        n = len(nums)
+        arr = sorted(nums)
+        n = len(arr)
         ans = []
 
-        for i in range(n - 2):
+        for i in range(n):
 
-            # Skip duplicate first elements
-            if i > 0 and nums[i] == nums[i - 1]:
+            if i > 0 and arr[i] == arr[i-1]:
                 continue
+
+            target = -arr[i]
 
             left = i + 1
             right = n - 1
 
             while left < right:
 
-                total = nums[i] + nums[left] + nums[right]
+                s = arr[left] + arr[right]
 
-                if total == 0:
-                    ans.append([nums[i], nums[left], nums[right]])
+                if s == target:
+
+                    ans.append([arr[i], arr[left], arr[right]])
 
                     left += 1
                     right -= 1
 
-                    # Skip duplicate left values
-                    while left < right and nums[left] == nums[left - 1]:
+                    while left < right and arr[left] == arr[left-1]:
                         left += 1
 
-                    # Skip duplicate right values
-                    while left < right and nums[right] == nums[right + 1]:
+                    while left < right and arr[right] == arr[right+1]:
                         right -= 1
 
-                elif total < 0:
+                elif s < target:
                     left += 1
 
                 else:
@@ -41,9 +41,4 @@ class Solution(object):
 
 
 # print(threeSum([-1, 0, 1, 2, -1, -4]))
-
-
-        
-
-
             
