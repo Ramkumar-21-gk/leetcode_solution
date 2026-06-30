@@ -4,7 +4,7 @@ class Solution(object):
         n = len(arr)
         ans = []
 
-        for i in range(n):
+        for i in range(0,n-2):
 
             if i > 0 and arr[i] == arr[i-1]:
                 continue
