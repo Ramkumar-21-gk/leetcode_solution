@@ -2,8 +2,7 @@ class Solution(object):
     def minSubArrayLen(self, target, nums):
         sum=0
         high,low,res=0,0,float('inf')
-        n=len(nums)
-        while high<n:
+        while high<len(nums):
             sum=sum+nums[high]
             while sum>=target:
                 length=high-low+1
