@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Ramkumar-21-gk/leetcode_solution/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/Ramkumar-21-gk/leetcode_solution/tree/master/0209-minimum-size-subarray-sum) |
 | [0283-move-zeroes](https://github.com/Ramkumar-21-gk/leetcode_solution/tree/master/0283-move-zeroes) |
+| [0704-binary-search](https://github.com/Ramkumar-21-gk/leetcode_solution/tree/master/0704-binary-search) |
 ## Two Pointers
 |  |
 | ------- |
@@ -31,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Ramkumar-21-gk/leetcode_solution/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/Ramkumar-21-gk/leetcode_solution/tree/master/0209-minimum-size-subarray-sum) |
+| [0704-binary-search](https://github.com/Ramkumar-21-gk/leetcode_solution/tree/master/0704-binary-search) |
 ## Sliding Window
 |  |
 | ------- |
