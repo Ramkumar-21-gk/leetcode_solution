@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/Ramkumar-21-gk/leetcode_solution/tree/master/0141-linked-list-cycle) |
+| [0206-reverse-linked-list](https://github.com/Ramkumar-21-gk/leetcode_solution/tree/master/0206-reverse-linked-list) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -70,4 +71,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0202-happy-number](https://github.com/Ramkumar-21-gk/leetcode_solution/tree/master/0202-happy-number) |
+## Recursion
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/Ramkumar-21-gk/leetcode_solution/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
