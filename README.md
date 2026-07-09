@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/Ramkumar-21-gk/leetcode_solution/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/Ramkumar-21-gk/leetcode_solution/tree/master/0287-find-the-duplicate-number) |
 | [0704-binary-search](https://github.com/Ramkumar-21-gk/leetcode_solution/tree/master/0704-binary-search) |
+| [1186-maximum-subarray-sum-with-one-deletion](https://github.com/Ramkumar-21-gk/leetcode_solution/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
 ## Two Pointers
 |  |
 | ------- |
@@ -87,4 +88,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0053-maximum-subarray](https://github.com/Ramkumar-21-gk/leetcode_solution/tree/master/0053-maximum-subarray) |
 | [0152-maximum-product-subarray](https://github.com/Ramkumar-21-gk/leetcode_solution/tree/master/0152-maximum-product-subarray) |
+| [1186-maximum-subarray-sum-with-one-deletion](https://github.com/Ramkumar-21-gk/leetcode_solution/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
 <!---LeetCode Topics End-->
