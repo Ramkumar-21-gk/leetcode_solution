@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0503-next-greater-element-ii](https://github.com/Ramkumar-21-gk/leetcode_solution/tree/master/0503-next-greater-element-ii) |
 | [0704-binary-search](https://github.com/Ramkumar-21-gk/leetcode_solution/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/Ramkumar-21-gk/leetcode_solution/tree/master/0875-koko-eating-bananas) |
+| [0904-fruit-into-baskets](https://github.com/Ramkumar-21-gk/leetcode_solution/tree/master/0904-fruit-into-baskets) |
 | [0977-squares-of-a-sorted-array](https://github.com/Ramkumar-21-gk/leetcode_solution/tree/master/0977-squares-of-a-sorted-array) |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/Ramkumar-21-gk/leetcode_solution/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
 ## Two Pointers
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Ramkumar-21-gk/leetcode_solution/tree/master/0209-minimum-size-subarray-sum) |
+| [0904-fruit-into-baskets](https://github.com/Ramkumar-21-gk/leetcode_solution/tree/master/0904-fruit-into-baskets) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Ramkumar-21-gk/leetcode_solution/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 ## Prefix Sum
 |  |
@@ -76,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0141-linked-list-cycle](https://github.com/Ramkumar-21-gk/leetcode_solution/tree/master/0141-linked-list-cycle) |
 | [0202-happy-number](https://github.com/Ramkumar-21-gk/leetcode_solution/tree/master/0202-happy-number) |
+| [0904-fruit-into-baskets](https://github.com/Ramkumar-21-gk/leetcode_solution/tree/master/0904-fruit-into-baskets) |
 ## Linked List
 |  |
 | ------- |
