@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/Ramkumar-21-gk/leetcode_solution/tree/master/0215-kth-largest-element-in-an-array) |
 | [0283-move-zeroes](https://github.com/Ramkumar-21-gk/leetcode_solution/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/Ramkumar-21-gk/leetcode_solution/tree/master/0287-find-the-duplicate-number) |
+| [0486-predict-the-winner](https://github.com/Ramkumar-21-gk/leetcode_solution/tree/master/0486-predict-the-winner) |
 | [0503-next-greater-element-ii](https://github.com/Ramkumar-21-gk/leetcode_solution/tree/master/0503-next-greater-element-ii) |
 | [0704-binary-search](https://github.com/Ramkumar-21-gk/leetcode_solution/tree/master/0704-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Ramkumar-21-gk/leetcode_solution/tree/master/0852-peak-index-in-a-mountain-array) |
@@ -110,10 +111,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0202-happy-number](https://github.com/Ramkumar-21-gk/leetcode_solution/tree/master/0202-happy-number) |
+| [0486-predict-the-winner](https://github.com/Ramkumar-21-gk/leetcode_solution/tree/master/0486-predict-the-winner) |
 ## Recursion
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/Ramkumar-21-gk/leetcode_solution/tree/master/0206-reverse-linked-list) |
+| [0486-predict-the-winner](https://github.com/Ramkumar-21-gk/leetcode_solution/tree/master/0486-predict-the-winner) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -124,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0053-maximum-subarray](https://github.com/Ramkumar-21-gk/leetcode_solution/tree/master/0053-maximum-subarray) |
 | [0152-maximum-product-subarray](https://github.com/Ramkumar-21-gk/leetcode_solution/tree/master/0152-maximum-product-subarray) |
+| [0486-predict-the-winner](https://github.com/Ramkumar-21-gk/leetcode_solution/tree/master/0486-predict-the-winner) |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/Ramkumar-21-gk/leetcode_solution/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
 ## Stack
 |  |
@@ -152,4 +156,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Ramkumar-21-gk/leetcode_solution/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+## Game Theory
+|  |
+| ------- |
+| [0486-predict-the-winner](https://github.com/Ramkumar-21-gk/leetcode_solution/tree/master/0486-predict-the-winner) |
 <!---LeetCode Topics End-->
