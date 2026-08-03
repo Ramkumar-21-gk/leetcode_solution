@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0904-fruit-into-baskets](https://github.com/Ramkumar-21-gk/leetcode_solution/tree/master/0904-fruit-into-baskets) |
 | [0977-squares-of-a-sorted-array](https://github.com/Ramkumar-21-gk/leetcode_solution/tree/master/0977-squares-of-a-sorted-array) |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/Ramkumar-21-gk/leetcode_solution/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
+| [1406-stone-game-iii](https://github.com/Ramkumar-21-gk/leetcode_solution/tree/master/1406-stone-game-iii) |
 ## Two Pointers
 |  |
 | ------- |
@@ -114,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/Ramkumar-21-gk/leetcode_solution/tree/master/0202-happy-number) |
 | [0486-predict-the-winner](https://github.com/Ramkumar-21-gk/leetcode_solution/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/Ramkumar-21-gk/leetcode_solution/tree/master/0877-stone-game) |
+| [1406-stone-game-iii](https://github.com/Ramkumar-21-gk/leetcode_solution/tree/master/1406-stone-game-iii) |
 ## Recursion
 |  |
 | ------- |
@@ -132,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0486-predict-the-winner](https://github.com/Ramkumar-21-gk/leetcode_solution/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/Ramkumar-21-gk/leetcode_solution/tree/master/0877-stone-game) |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/Ramkumar-21-gk/leetcode_solution/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
+| [1406-stone-game-iii](https://github.com/Ramkumar-21-gk/leetcode_solution/tree/master/1406-stone-game-iii) |
 ## Stack
 |  |
 | ------- |
@@ -164,4 +167,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0486-predict-the-winner](https://github.com/Ramkumar-21-gk/leetcode_solution/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/Ramkumar-21-gk/leetcode_solution/tree/master/0877-stone-game) |
+| [1406-stone-game-iii](https://github.com/Ramkumar-21-gk/leetcode_solution/tree/master/1406-stone-game-iii) |
+## Minimax
+|  |
+| ------- |
+| [1406-stone-game-iii](https://github.com/Ramkumar-21-gk/leetcode_solution/tree/master/1406-stone-game-iii) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [1406-stone-game-iii](https://github.com/Ramkumar-21-gk/leetcode_solution/tree/master/1406-stone-game-iii) |
 <!---LeetCode Topics End-->
