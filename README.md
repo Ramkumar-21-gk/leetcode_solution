@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Ramkumar-21-gk/leetcode_solution/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/Ramkumar-21-gk/leetcode_solution/tree/master/0035-search-insert-position) |
 | [0053-maximum-subarray](https://github.com/Ramkumar-21-gk/leetcode_solution/tree/master/0053-maximum-subarray) |
+| [0066-plus-one](https://github.com/Ramkumar-21-gk/leetcode_solution/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/Ramkumar-21-gk/leetcode_solution/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Ramkumar-21-gk/leetcode_solution/tree/master/0088-merge-sorted-array) |
 | [0152-maximum-product-subarray](https://github.com/Ramkumar-21-gk/leetcode_solution/tree/master/0152-maximum-product-subarray) |
@@ -119,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Ramkumar-21-gk/leetcode_solution/tree/master/0002-add-two-numbers) |
+| [0066-plus-one](https://github.com/Ramkumar-21-gk/leetcode_solution/tree/master/0066-plus-one) |
 | [0202-happy-number](https://github.com/Ramkumar-21-gk/leetcode_solution/tree/master/0202-happy-number) |
 | [0486-predict-the-winner](https://github.com/Ramkumar-21-gk/leetcode_solution/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/Ramkumar-21-gk/leetcode_solution/tree/master/0877-stone-game) |
