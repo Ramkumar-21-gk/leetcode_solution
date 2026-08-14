@@ -1,18 +1,18 @@
 class Solution(object):
     def twoSum(self, numbers, target):
-        i=0
-        j=len(numbers)-1
-        while i<=j:
-            sum=numbers[i]+numbers[j]
-
-            if target==sum:
-                return [i+1,j+1]
-            elif sum<target:
-                i+=1
+        left=0
+        right=len(numbers)-1
+        while left<right:
+            sum=numbers[left]+numbers[right]
+            if sum==target:
+                return [left+1,right+1]
+            if sum>target:
+                right-=1
             else:
-                j-=1
-        return -1
+                left+=1
+
+        return [-1,-1]
 
 
-obj=Solution()
-obj.twoSum([2,7,11,15],9)
+
+        
