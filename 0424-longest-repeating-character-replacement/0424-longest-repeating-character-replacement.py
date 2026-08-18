@@ -1,18 +1,20 @@
 class Solution(object):
     def characterReplacement(self, s, k):
-        low = 0
-        res = 0
-        f = [0] * 256
+        freq=[0]*26
+        low,res=0,0
 
         for high in range(len(s)):
-            f[ord(s[high])] += 1
-
-            while (high - low + 1) - max(f) > k:
-                f[ord(s[low])] -= 1
+            freq[ord(s[high])-ord('A')]+=1
+            length=high-low+1
+            max_freq=max(freq)
+            diff=length-max_freq
+            while diff>k:
+                freq[ord(s[low]) - ord('A')] -= 1
                 low += 1
-
-            res = max(res, high - low + 1)
-
+                length=high-low+1
+                max_freq=max(freq)
+                diff=length-max_freq
+                
+            length=high-low+1
+            res=max(res,length)
         return res
-
-        
