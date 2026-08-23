@@ -152,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1406-stone-game-iii](https://github.com/Ramkumar-21-gk/leetcode_solution/tree/master/1406-stone-game-iii) |
 | [2029-stone-game-ix](https://github.com/Ramkumar-21-gk/leetcode_solution/tree/master/2029-stone-game-ix) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Ramkumar-21-gk/leetcode_solution/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
+| [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Ramkumar-21-gk/leetcode_solution/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 ## Recursion
 |  |
 | ------- |
