@@ -108,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Ramkumar-21-gk/leetcode_solution/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Ramkumar-21-gk/leetcode_solution/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1544-make-the-string-great](https://github.com/Ramkumar-21-gk/leetcode_solution/tree/master/1544-make-the-string-great) |
+| [1927-sum-game](https://github.com/Ramkumar-21-gk/leetcode_solution/tree/master/1927-sum-game) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Ramkumar-21-gk/leetcode_solution/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Ramkumar-21-gk/leetcode_solution/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Ramkumar-21-gk/leetcode_solution/tree/master/3090-maximum-length-substring-with-two-occurrences) |
@@ -150,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0486-predict-the-winner](https://github.com/Ramkumar-21-gk/leetcode_solution/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/Ramkumar-21-gk/leetcode_solution/tree/master/0877-stone-game) |
 | [1406-stone-game-iii](https://github.com/Ramkumar-21-gk/leetcode_solution/tree/master/1406-stone-game-iii) |
+| [1927-sum-game](https://github.com/Ramkumar-21-gk/leetcode_solution/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/Ramkumar-21-gk/leetcode_solution/tree/master/2029-stone-game-ix) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Ramkumar-21-gk/leetcode_solution/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Ramkumar-21-gk/leetcode_solution/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
@@ -196,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1386-cinema-seat-allocation](https://github.com/Ramkumar-21-gk/leetcode_solution/tree/master/1386-cinema-seat-allocation) |
+| [1927-sum-game](https://github.com/Ramkumar-21-gk/leetcode_solution/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/Ramkumar-21-gk/leetcode_solution/tree/master/2029-stone-game-ix) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Ramkumar-21-gk/leetcode_solution/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 ## Counting
@@ -209,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0486-predict-the-winner](https://github.com/Ramkumar-21-gk/leetcode_solution/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/Ramkumar-21-gk/leetcode_solution/tree/master/0877-stone-game) |
 | [1406-stone-game-iii](https://github.com/Ramkumar-21-gk/leetcode_solution/tree/master/1406-stone-game-iii) |
+| [1927-sum-game](https://github.com/Ramkumar-21-gk/leetcode_solution/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/Ramkumar-21-gk/leetcode_solution/tree/master/2029-stone-game-ix) |
 ## Minimax
 |  |
