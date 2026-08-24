@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/Ramkumar-21-gk/leetcode_solution/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
 | [1386-cinema-seat-allocation](https://github.com/Ramkumar-21-gk/leetcode_solution/tree/master/1386-cinema-seat-allocation) |
 | [1406-stone-game-iii](https://github.com/Ramkumar-21-gk/leetcode_solution/tree/master/1406-stone-game-iii) |
+| [1872-stone-game-viii](https://github.com/Ramkumar-21-gk/leetcode_solution/tree/master/1872-stone-game-viii) |
 | [2029-stone-game-ix](https://github.com/Ramkumar-21-gk/leetcode_solution/tree/master/2029-stone-game-ix) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Ramkumar-21-gk/leetcode_solution/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Ramkumar-21-gk/leetcode_solution/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -97,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Ramkumar-21-gk/leetcode_solution/tree/master/0209-minimum-size-subarray-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/Ramkumar-21-gk/leetcode_solution/tree/master/1004-max-consecutive-ones-iii) |
+| [1872-stone-game-viii](https://github.com/Ramkumar-21-gk/leetcode_solution/tree/master/1872-stone-game-viii) |
 ## String
 |  |
 | ------- |
@@ -151,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0486-predict-the-winner](https://github.com/Ramkumar-21-gk/leetcode_solution/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/Ramkumar-21-gk/leetcode_solution/tree/master/0877-stone-game) |
 | [1406-stone-game-iii](https://github.com/Ramkumar-21-gk/leetcode_solution/tree/master/1406-stone-game-iii) |
+| [1872-stone-game-viii](https://github.com/Ramkumar-21-gk/leetcode_solution/tree/master/1872-stone-game-viii) |
 | [1927-sum-game](https://github.com/Ramkumar-21-gk/leetcode_solution/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/Ramkumar-21-gk/leetcode_solution/tree/master/2029-stone-game-ix) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Ramkumar-21-gk/leetcode_solution/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
@@ -175,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/Ramkumar-21-gk/leetcode_solution/tree/master/0877-stone-game) |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/Ramkumar-21-gk/leetcode_solution/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
 | [1406-stone-game-iii](https://github.com/Ramkumar-21-gk/leetcode_solution/tree/master/1406-stone-game-iii) |
+| [1872-stone-game-viii](https://github.com/Ramkumar-21-gk/leetcode_solution/tree/master/1872-stone-game-viii) |
 ## Stack
 |  |
 | ------- |
@@ -212,17 +216,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0486-predict-the-winner](https://github.com/Ramkumar-21-gk/leetcode_solution/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/Ramkumar-21-gk/leetcode_solution/tree/master/0877-stone-game) |
 | [1406-stone-game-iii](https://github.com/Ramkumar-21-gk/leetcode_solution/tree/master/1406-stone-game-iii) |
+| [1872-stone-game-viii](https://github.com/Ramkumar-21-gk/leetcode_solution/tree/master/1872-stone-game-viii) |
 | [1927-sum-game](https://github.com/Ramkumar-21-gk/leetcode_solution/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/Ramkumar-21-gk/leetcode_solution/tree/master/2029-stone-game-ix) |
 ## Minimax
 |  |
 | ------- |
 | [1406-stone-game-iii](https://github.com/Ramkumar-21-gk/leetcode_solution/tree/master/1406-stone-game-iii) |
+| [1872-stone-game-viii](https://github.com/Ramkumar-21-gk/leetcode_solution/tree/master/1872-stone-game-viii) |
 | [2029-stone-game-ix](https://github.com/Ramkumar-21-gk/leetcode_solution/tree/master/2029-stone-game-ix) |
 ## Zero-Sum Game
 |  |
 | ------- |
 | [1406-stone-game-iii](https://github.com/Ramkumar-21-gk/leetcode_solution/tree/master/1406-stone-game-iii) |
+| [1872-stone-game-viii](https://github.com/Ramkumar-21-gk/leetcode_solution/tree/master/1872-stone-game-viii) |
 | [2029-stone-game-ix](https://github.com/Ramkumar-21-gk/leetcode_solution/tree/master/2029-stone-game-ix) |
 ## Depth-First Search
 |  |
