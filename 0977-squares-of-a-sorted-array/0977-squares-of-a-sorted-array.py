@@ -1,66 +1,44 @@
-class Solution(object):
-    def sortedSquares(self, arr):
-        n=len(arr)
-        ans=[0]*n
+class Solution:
+    def sortedSquares(self, nums):
 
-        left=0
-        right=n-1
-        index=n-1
+        negative = []
+        positive = []
 
-        while left<=right:
-            if abs(arr[left])>abs(arr[right]):
-                ans[index]=arr[left]*arr[left]
-                left+=1
+        # Separate negative and positive
+        for num in nums:
+            if num < 0:
+                negative.append(num * num)
             else:
-                ans[index]=arr[right]*arr[right]
-                right-=1
-            index-=1
-        return ans
+                positive.append(num * num)
 
-        # a=[]
-        # b=[]
-        # n=len(arr)
-        # for i in range(0,n):
-        #     if arr[i]>=0:
-        #         a.append(arr[i])
-        #     else:
-        #         b.append(arr[i])
-        
-        # if len(b)==0:
-        #     for i in range(0,n):
-        #         arr[i]=arr[i]*arr[i]
-        #     return arr
-        
-        # if len(a)==0:
-        #     for i in range(0,n):
-        #         arr[i]=arr[i]*arr[i]
-        #     return arr[::-1]
-        
-        # for i in range(0,len(a)):
-        #     a[i]=a[i]*a[i] 
-        
-        # for i in range(0,len(b)):
-        #     b[i]=b[i]*b[i] 
-            
-        # b.reverse()
+        # Negative squares are in decreasing order
+        # so reverse them
+        negative.reverse()
 
-        # sort_arr=[]
-        # i=0
-        # j=0
-        # while i<len(a) and j<len(b):
-        #     if a[i]>b[j]:
-        #         sort_arr.append(b[j])
-        #         j+=1
-        #     else:
-        #         sort_arr.append(a[i])
-        #         i+=1
+        # Now both are sorted
+        i = 0
+        j = 0
 
-        # while i<len(a):
-        #     sort_arr.append(a[i])
-        #     i+=1
-        # while j<len(b):
-        #     sort_arr.append(b[j])
-        #     j+=1
+        result = []
 
-        # return sort_arr
-        
+        # Merge two sorted arrays
+        while i < len(negative) and j < len(positive):
+
+            if negative[i] <= positive[j]:
+                result.append(negative[i])
+                i += 1
+            else:
+                result.append(positive[j])
+                j += 1
+
+        # Remaining negative squares
+        while i < len(negative):
+            result.append(negative[i])
+            i += 1
+
+        # Remaining positive squares
+        while j < len(positive):
+            result.append(positive[j])
+            j += 1
+
+        return result
