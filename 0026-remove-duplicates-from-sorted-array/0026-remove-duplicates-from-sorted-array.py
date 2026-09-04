@@ -1,13 +1,17 @@
 class Solution(object):
     def removeDuplicates(self, nums):
+        count=1
+        move=1
         cm=0
-        off=1
-        while off<len(nums):
-            if nums[off-1]==nums[off]:
-                off+=1
-                continue
-            cm+=1
-            nums[cm]=nums[off]
-            off+=1
-        return cm+1
-            
+        n=len(nums)
+        while move<n:
+            if nums[move]==nums[cm]:
+                move+=1
+            else:
+                cm+=1
+                nums[count],nums[move]=nums[move],nums[count]
+                count+=1
+                move+=1
+        return count
+
+        
