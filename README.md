@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3731-find-missing-elements](https://github.com/Ramkumar-21-gk/leetcode_solution/tree/master/3731-find-missing-elements) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Ramkumar-21-gk/leetcode_solution/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/Ramkumar-21-gk/leetcode_solution/tree/master/3876-construct-uniform-parity-array-ii) |
+| [3903-smallest-stable-index-i](https://github.com/Ramkumar-21-gk/leetcode_solution/tree/master/3903-smallest-stable-index-i) |
 ## Two Pointers
 |  |
 | ------- |
@@ -107,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/Ramkumar-21-gk/leetcode_solution/tree/master/0209-minimum-size-subarray-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/Ramkumar-21-gk/leetcode_solution/tree/master/1004-max-consecutive-ones-iii) |
 | [1872-stone-game-viii](https://github.com/Ramkumar-21-gk/leetcode_solution/tree/master/1872-stone-game-viii) |
+| [3903-smallest-stable-index-i](https://github.com/Ramkumar-21-gk/leetcode_solution/tree/master/3903-smallest-stable-index-i) |
 ## String
 |  |
 | ------- |
