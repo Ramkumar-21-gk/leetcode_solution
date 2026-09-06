@@ -118,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/Ramkumar-21-gk/leetcode_solution/tree/master/0020-valid-parentheses) |
 | [0058-length-of-last-word](https://github.com/Ramkumar-21-gk/leetcode_solution/tree/master/0058-length-of-last-word) |
 | [0076-minimum-window-substring](https://github.com/Ramkumar-21-gk/leetcode_solution/tree/master/0076-minimum-window-substring) |
+| [0115-distinct-subsequences](https://github.com/Ramkumar-21-gk/leetcode_solution/tree/master/0115-distinct-subsequences) |
 | [0424-longest-repeating-character-replacement](https://github.com/Ramkumar-21-gk/leetcode_solution/tree/master/0424-longest-repeating-character-replacement) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Ramkumar-21-gk/leetcode_solution/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Ramkumar-21-gk/leetcode_solution/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
@@ -193,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Ramkumar-21-gk/leetcode_solution/tree/master/0053-maximum-subarray) |
+| [0115-distinct-subsequences](https://github.com/Ramkumar-21-gk/leetcode_solution/tree/master/0115-distinct-subsequences) |
 | [0152-maximum-product-subarray](https://github.com/Ramkumar-21-gk/leetcode_solution/tree/master/0152-maximum-product-subarray) |
 | [0486-predict-the-winner](https://github.com/Ramkumar-21-gk/leetcode_solution/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/Ramkumar-21-gk/leetcode_solution/tree/master/0877-stone-game) |
