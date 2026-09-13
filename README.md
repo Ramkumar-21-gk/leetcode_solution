@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0486-predict-the-winner](https://github.com/Ramkumar-21-gk/leetcode_solution/tree/master/0486-predict-the-winner) |
 | [0503-next-greater-element-ii](https://github.com/Ramkumar-21-gk/leetcode_solution/tree/master/0503-next-greater-element-ii) |
 | [0704-binary-search](https://github.com/Ramkumar-21-gk/leetcode_solution/tree/master/0704-binary-search) |
+| [0835-image-overlap](https://github.com/Ramkumar-21-gk/leetcode_solution/tree/master/0835-image-overlap) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Ramkumar-21-gk/leetcode_solution/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0875-koko-eating-bananas](https://github.com/Ramkumar-21-gk/leetcode_solution/tree/master/0875-koko-eating-bananas) |
 | [0877-stone-game](https://github.com/Ramkumar-21-gk/leetcode_solution/tree/master/0877-stone-game) |
@@ -319,4 +320,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Ramkumar-21-gk/leetcode_solution/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
+## Matrix
+|  |
+| ------- |
+| [0835-image-overlap](https://github.com/Ramkumar-21-gk/leetcode_solution/tree/master/0835-image-overlap) |
 <!---LeetCode Topics End-->
