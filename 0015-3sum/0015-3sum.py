@@ -1,44 +1,26 @@
 class Solution(object):
-    def threeSum(self,nums):
-        arr = sorted(nums)
-        n = len(arr)
-        ans = []
-
-        for i in range(0,n-2):
-
-            if i > 0 and arr[i] == arr[i-1]:
+    def threeSum(self, nums):
+        nums.sort()
+        result=[]
+        for i in range(len(nums)-1):
+            if i > 0 and nums[i] == nums[i - 1]:
                 continue
+            left=i+1
+            right=len(nums)-1
+            target=-nums[i]
 
-            target = -arr[i]
-
-            left = i + 1
-            right = n - 1
-
-            while left < right:
-
-                s = arr[left] + arr[right]
-
-                if s == target:
-
-                    ans.append([arr[i], arr[left], arr[right]])
-
-                    left += 1
-                    right -= 1
-
-                    while left < right and arr[left] == arr[left-1]:
-                        left += 1
-
-                    while left < right and arr[right] == arr[right+1]:
-                        right -= 1
-
-                elif s < target:
-                    left += 1
-
+            while left<right:
+                sum=nums[left]+nums[right]
+                if sum==target:
+                    result.append([nums[i],nums[left],nums[right]])
+                    left+=1
+                    right-=1
+                    while left < right and nums[left]==nums[left-1]:
+                        left+=1
+                    while left < right and nums[right]==nums[right+1]:
+                        right-=1
+                elif sum>target:
+                    right-=1
                 else:
-                    right -= 1
-
-        return ans
-
-
-# print(threeSum([-1, 0, 1, 2, -1, -4]))
-            
+                    left+=1
+        return result
