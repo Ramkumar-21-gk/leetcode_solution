@@ -188,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0486-predict-the-winner](https://github.com/Ramkumar-21-gk/leetcode_solution/tree/master/0486-predict-the-winner) |
 | [0836-rectangle-overlap](https://github.com/Ramkumar-21-gk/leetcode_solution/tree/master/0836-rectangle-overlap) |
 | [0877-stone-game](https://github.com/Ramkumar-21-gk/leetcode_solution/tree/master/0877-stone-game) |
+| [1401-circle-and-rectangle-overlapping](https://github.com/Ramkumar-21-gk/leetcode_solution/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1406-stone-game-iii](https://github.com/Ramkumar-21-gk/leetcode_solution/tree/master/1406-stone-game-iii) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Ramkumar-21-gk/leetcode_solution/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1872-stone-game-viii](https://github.com/Ramkumar-21-gk/leetcode_solution/tree/master/1872-stone-game-viii) |
@@ -346,4 +347,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0836-rectangle-overlap](https://github.com/Ramkumar-21-gk/leetcode_solution/tree/master/0836-rectangle-overlap) |
+| [1401-circle-and-rectangle-overlapping](https://github.com/Ramkumar-21-gk/leetcode_solution/tree/master/1401-circle-and-rectangle-overlapping) |
 <!---LeetCode Topics End-->
