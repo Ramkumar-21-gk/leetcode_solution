@@ -1,23 +1,22 @@
 class Solution(object):
     def isPalindrome(self, s):
-        i=0
-        j=len(s)-1
+        s = s.lower()
+        arr = []
 
-        while i<j:
+        for char in s:
+            value = ord(char)
 
-            while i<j and not s[i].isalnum():
-                i+=1
+            if ('a' <= char <= 'z') or ('0' <= char <= '9'):
+                arr.append(char)
 
-            while i<j and not s[j].isalnum():
-                j-=1
+        left = 0
+        right = len(arr) - 1
 
-            if s[i].lower()!=s[j].lower():
+        while left < right:
+            if arr[left] != arr[right]:
                 return False
 
-            i+=1
-            j-=1
+            left += 1
+            right -= 1
+
         return True
-
-
-obj=Solution()
-obj.isPalindrome('hello')
