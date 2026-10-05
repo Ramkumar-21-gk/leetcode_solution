@@ -393,4 +393,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0032-longest-valid-parentheses](https://github.com/Ramkumar-21-gk/leetcode_solution/tree/master/0032-longest-valid-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Ramkumar-21-gk/leetcode_solution/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Ramkumar-21-gk/leetcode_solution/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
+## Quicksort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/Ramkumar-21-gk/leetcode_solution/tree/master/0075-sort-colors) |
+## Bubble Sort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/Ramkumar-21-gk/leetcode_solution/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
