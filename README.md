@@ -145,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/Ramkumar-21-gk/leetcode_solution/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/Ramkumar-21-gk/leetcode_solution/tree/master/0344-reverse-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/Ramkumar-21-gk/leetcode_solution/tree/master/0424-longest-repeating-character-replacement) |
+| [1021-remove-outermost-parentheses](https://github.com/Ramkumar-21-gk/leetcode_solution/tree/master/1021-remove-outermost-parentheses) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Ramkumar-21-gk/leetcode_solution/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1096-brace-expansion-ii](https://github.com/Ramkumar-21-gk/leetcode_solution/tree/master/1096-brace-expansion-ii) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Ramkumar-21-gk/leetcode_solution/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
@@ -258,6 +259,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/Ramkumar-21-gk/leetcode_solution/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Ramkumar-21-gk/leetcode_solution/tree/master/0032-longest-valid-parentheses) |
 | [0503-next-greater-element-ii](https://github.com/Ramkumar-21-gk/leetcode_solution/tree/master/0503-next-greater-element-ii) |
+| [1021-remove-outermost-parentheses](https://github.com/Ramkumar-21-gk/leetcode_solution/tree/master/1021-remove-outermost-parentheses) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Ramkumar-21-gk/leetcode_solution/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1096-brace-expansion-ii](https://github.com/Ramkumar-21-gk/leetcode_solution/tree/master/1096-brace-expansion-ii) |
 | [1544-make-the-string-great](https://github.com/Ramkumar-21-gk/leetcode_solution/tree/master/1544-make-the-string-great) |
@@ -391,6 +393,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/Ramkumar-21-gk/leetcode_solution/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/Ramkumar-21-gk/leetcode_solution/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Ramkumar-21-gk/leetcode_solution/tree/master/0032-longest-valid-parentheses) |
+| [1021-remove-outermost-parentheses](https://github.com/Ramkumar-21-gk/leetcode_solution/tree/master/1021-remove-outermost-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Ramkumar-21-gk/leetcode_solution/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Ramkumar-21-gk/leetcode_solution/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 ## Quicksort
