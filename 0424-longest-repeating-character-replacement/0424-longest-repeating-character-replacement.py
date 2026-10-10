@@ -6,15 +6,16 @@ class Solution(object):
         for high in range(len(s)):
             freq[ord(s[high])-ord('A')]+=1
             length=high-low+1
-            max_freq=max(freq)
-            diff=length-max_freq
+            max_count=max(freq)
+            diff=length-max_count
             while diff>k:
-                freq[ord(s[low]) - ord('A')] -= 1
-                low += 1
+                freq[ord(s[low])-ord('A')]-=1
+                low+=1
                 length=high-low+1
-                max_freq=max(freq)
-                diff=length-max_freq
-                
+                max_count=max(freq)
+                diff=length-max_count
+            
             length=high-low+1
             res=max(res,length)
         return res
+        
