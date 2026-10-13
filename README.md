@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3524-find-x-value-of-array-i](https://github.com/Ramkumar-21-gk/leetcode_solution/tree/master/3524-find-x-value-of-array-i) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Ramkumar-21-gk/leetcode_solution/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Ramkumar-21-gk/leetcode_solution/tree/master/3718-smallest-missing-multiple-of-k) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/Ramkumar-21-gk/leetcode_solution/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3731-find-missing-elements](https://github.com/Ramkumar-21-gk/leetcode_solution/tree/master/3731-find-missing-elements) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Ramkumar-21-gk/leetcode_solution/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/Ramkumar-21-gk/leetcode_solution/tree/master/3876-construct-uniform-parity-array-ii) |
@@ -93,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Ramkumar-21-gk/leetcode_solution/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Ramkumar-21-gk/leetcode_solution/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Ramkumar-21-gk/leetcode_solution/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/Ramkumar-21-gk/leetcode_solution/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3731-find-missing-elements](https://github.com/Ramkumar-21-gk/leetcode_solution/tree/master/3731-find-missing-elements) |
 ## Binary Search
 |  |
@@ -296,6 +298,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Ramkumar-21-gk/leetcode_solution/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Ramkumar-21-gk/leetcode_solution/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Ramkumar-21-gk/leetcode_solution/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/Ramkumar-21-gk/leetcode_solution/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Counting
 |  |
 | ------- |
