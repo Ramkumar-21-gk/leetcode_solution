@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Ramkumar-21-gk/leetcode_solution/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Ramkumar-21-gk/leetcode_solution/tree/master/3483-unique-3-digit-even-numbers) |
 | [3524-find-x-value-of-array-i](https://github.com/Ramkumar-21-gk/leetcode_solution/tree/master/3524-find-x-value-of-array-i) |
+| [3644-maximum-k-to-sort-a-permutation](https://github.com/Ramkumar-21-gk/leetcode_solution/tree/master/3644-maximum-k-to-sort-a-permutation) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Ramkumar-21-gk/leetcode_solution/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Ramkumar-21-gk/leetcode_solution/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Ramkumar-21-gk/leetcode_solution/tree/master/3727-maximum-alternating-sum-of-squares) |
@@ -207,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/Ramkumar-21-gk/leetcode_solution/tree/master/0287-find-the-duplicate-number) |
 | [1386-cinema-seat-allocation](https://github.com/Ramkumar-21-gk/leetcode_solution/tree/master/1386-cinema-seat-allocation) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Ramkumar-21-gk/leetcode_solution/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
+| [3644-maximum-k-to-sort-a-permutation](https://github.com/Ramkumar-21-gk/leetcode_solution/tree/master/3644-maximum-k-to-sort-a-permutation) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Ramkumar-21-gk/leetcode_solution/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Math
 |  |
