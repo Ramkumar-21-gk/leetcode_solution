@@ -8,8 +8,8 @@ class Solution:
             else:
                 arr_neg.append(num**2)
 
-        arr_neg.sort()
-        
+        arr_neg.reverse()
+
         result=[]
         m=len(arr_pos)
         n=len(arr_neg)
