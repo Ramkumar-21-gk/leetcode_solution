@@ -1,34 +1,33 @@
 class Solution:
     def sortedSquares(self, nums):
-
-        neg=[]
-        pos=[]
-
+        arr_pos=[]
+        arr_neg=[]
         for num in nums:
-            if num<0:
-                neg.append(num*num)
+            if num>=0:
+                arr_pos.append(num**2)
             else:
-                pos.append(num*num)
+                arr_neg.append(num**2)
+
+        arr_neg.sort()
         
-        neg.reverse()
-        i,j=0,0
         result=[]
-        while i<len(neg) and j<len(pos):
-            if neg[i]<pos[j]:
-                result.append(neg[i])
+        m=len(arr_pos)
+        n=len(arr_neg)
+        i,j=0,0
+        while i<m and j<n:
+            if arr_pos[i]<arr_neg[j]:
+                result.append(arr_pos[i])
                 i+=1
             else:
-                result.append(pos[j])
+                result.append(arr_neg[j])
                 j+=1
-        
-        while i<len(neg):
-            result.append(neg[i])
-            i+=1
 
-        while j<len(pos):
-            result.append(pos[j])
+        while i<m:
+            result.append(arr_pos[i])
+            i+=1      
+        while j<n:
+            result.append(arr_neg[j])
             j+=1
-        
         return result
 
 
