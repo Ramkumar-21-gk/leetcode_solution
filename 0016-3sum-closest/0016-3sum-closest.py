@@ -1,20 +1,18 @@
 class Solution(object):
     def threeSumClosest(self, nums, target):
-        arr = sorted(nums)
-        n = len(arr)
+        nums.sort()
+        n = len(nums)
 
-        closest_sum = arr[0] + arr[1] + arr[2]
+        closest_sum = nums[0] + nums[1] + nums[2]
 
         for i in range(n - 2):
-
             left = i + 1
             right = n - 1
 
             while left < right:
+                current_sum = nums[i] + nums[left] + nums[right]
 
-                current_sum = arr[i] + arr[left] + arr[right]
-
-                if abs(current_sum - target) < abs(closest_sum - target):
+                if abs(target - current_sum) < abs(target - closest_sum):
                     closest_sum = current_sum
 
                 if current_sum < target:
