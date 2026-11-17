@@ -1,21 +1,18 @@
 class Solution(object):
     def totalFruit(self, fruits):
-        low=0
         freq={}
-        n=len(fruits)
-        k=2
-        max_fruits=0
-        for high in range(n):
-            freq[fruits[high]]=freq.get(fruits[high],0)+1
+        left=0
+        result=float('-inf')
 
-            while len(freq)>k:
-                freq[fruits[low]]-=1
-                if freq[fruits[low]]==0:
-                    del freq[fruits[low]]
-                low+=1
+        for right in range(len(fruits)):
+            freq[fruits[right]]=freq.get(fruits[right],0)+1
 
-            length=high-low+1
+            while len(freq)>2:
+                freq[fruits[left]]-=1
+                if freq[fruits[left]]==0:
+                    del freq[fruits[left]]
+                left+=1
 
-            max_fruits=max(length,max_fruits)
-
-        return max_fruits
+            result=max(result,right-left+1)
+            
+        return result
