@@ -1,20 +1,17 @@
 class Solution(object):
     def lengthOfLongestSubstring(self, s):
-        low=0
-        arr=list(s)
-        n=len(arr)
-        max_string=0
+        left=0
+        result=float('-inf')
         freq={}
-        for high in range(n):
-            freq[arr[high]]=freq.get(arr[high],0)+1
-            k=high-low+1
-            if len(freq)<k:
-                freq[arr[low]]-=1
-                if freq[arr[low]]==0:
-                    del freq[arr[low]]
-                k=high-low+1   
-                low+=1
-            
-            length=high-low+1
-            max_string=max(length,max_string)
-        return max_string
+        for right in range(len(s)):
+            freq[s[right]]=freq.get(s[right],0)+1
+
+            while len(freq)<right-left+1:
+                freq[s[left]]-=1
+                if freq[s[left]]==0:
+                    del freq[s[left]]
+                left+=1
+
+            result=max(result,right-left+1)
+        return 0 if result==float('-inf') else result
+        
